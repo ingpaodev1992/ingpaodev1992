@@ -19,6 +19,8 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado:
 
 Analisis de Eficiencia Energetica y Costos en Dispositivos de Energia https://github.com/ingpaodev1992/PowerBI_EnergyInsights 
 
+Dashboard in a day: Taller en Linea de Power BI de Microsoft https://github.com/ingpaodev1992/Dashboard_in_a_Day
+
 ---
 
 ## 🎓 Formación y Certificaciones  
