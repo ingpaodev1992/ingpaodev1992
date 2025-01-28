@@ -23,6 +23,9 @@ https://github.com/ingpaodev1992/PowerBI_EnergyInsights
 Dashboard in a day: Taller en Linea de Power BI de Microsoft 
 https://github.com/ingpaodev1992/Dashboard_in_a_Day
 
+Dashboard para el analisis de gestion de ventas y proveedores en la industria textil
+https://github.com/ingpaodev1992/AnalisisDeManufactura
+
 ---
 
 ## 🎓 Formación y Certificaciones  
