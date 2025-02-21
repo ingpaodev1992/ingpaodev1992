@@ -26,6 +26,9 @@ https://github.com/ingpaodev1992/Dashboard_in_a_Day
 Dashboard para el analisis de gestion de ventas y proveedores en la industria textil
 https://github.com/ingpaodev1992/Dashboard_Industria_Textil
 
+Dashboard Campeonato Mundial Power BI DataViz Desafio Semana # 1 San Valentin
+https://github.com/ingpaodev1992/-Week-1-Challenge-San-Valentin.git
+
 ---
 
 ## 🎓 Formación y Certificaciones  
