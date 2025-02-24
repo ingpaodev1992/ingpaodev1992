@@ -29,6 +29,9 @@ https://github.com/ingpaodev1992/Dashboard_Industria_Textil
 Dashboard Campeonato Mundial Power BI DataViz Desafio Semana # 1 San Valentin                                    
 https://github.com/ingpaodev1992/-Week-1-Challenge-San-Valentin.git
 
+Dashboard para el analisis de servicios de auditoria en la industria financiera
+https://github.com/ingpaodev1992/Dashboard_Auditoria
+
 ---
 
 ## 🎓 Formación y Certificaciones  
