@@ -37,7 +37,7 @@ https://github.com/ingpaodev1992/Dashboard_Auditoria
 ## 🎓 Formación y Certificaciones  
 - 🎓 **Ingeniería de Sistemas, UNIMINUTO** (VII semestre, en curso).  
 - 📊 **Certificaciones Platzi:**  
-  - Data Analyst (En curso).  
+  - Data Analyst (Culminada).  
   - Visualización de Datos con Python (En curso).  
   - Data Scientist (En curso).  
 - 🌐 **Inglés B1**, T&T Teaching and Tutoring College.  
