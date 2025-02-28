@@ -32,6 +32,10 @@ https://github.com/ingpaodev1992/-Week-1-Challenge-San-Valentin.git
 Dashboard para el analisis de servicios de auditoria en la industria financiera                         
 https://github.com/ingpaodev1992/Dashboard_Auditoria
 
+Dashboard Campeonato Mundial Power BI DataViz Desafio Semana # 2 Viajes
+https://github.com/ingpaodev1992/-Week-2-Tourism-in-Colombia
+
+
 ---
 
 ## 🎓 Formación y Certificaciones  
