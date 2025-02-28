@@ -1,7 +1,7 @@
 # 👩‍💻 Paola Marcela Arguelles Salazar  
 
 🌟 **Bienvenidos a mi espacio en GitHub** 🌟  
-Soy estudiante de Ingeniería de Sistemas en UNIMINUTO, apasionada por el análisis de datos, las matemáticas y la inteligencia artificial. Creo firmemente que los datos son la clave para tomar decisiones estratégicas y transformar el futuro. 🚀  
+Soy profesional de Ingeniería de Sistemas en 7 semestre en UNIMINUTO, apasionada por el análisis de datos, las matemáticas y la inteligencia artificial. Creo firmemente que los datos son la clave para tomar decisiones estratégicas y transformar el futuro. 🚀  
 
 ## 📖 Sobre mí  
 💡 Actualmente, curso el VII semestre de Ingeniería de Sistemas, con experiencia en análisis de datos y creación de dashboards interactivos. Mi objetivo es contribuir en proyectos que utilicen Python, Power BI y otras herramientas tecnológicas para generar valor e innovación.  
