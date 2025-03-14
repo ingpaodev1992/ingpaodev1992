@@ -35,6 +35,9 @@ https://github.com/ingpaodev1992/Dashboard_Auditoria
 Dashboard Campeonato Mundial Power BI DataViz Desafio Semana # 2 Viajes       
 https://github.com/ingpaodev1992/-Week-2-Tourism-in-Colombia
 
+Dashboard Campeonato Mundial Power BI DataViz Desafio Semana # 4 Explorando la Era de los Dinosaurios
+https://github.com/ingpaodev1992/-Week-4-Explorando-la-Era-de-los-Dinosaurios
+
 
 ---
 
