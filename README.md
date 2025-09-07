@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingpaodev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingpaodev92@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ingpaodev1992)
-[![CV Web](https://img.shields.io/badge/CV_Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](tu-cv-web-url-aqui)
+[![CV Web](https://img.shields.io/badge/CV_Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ingpaodev1992.github.io/mi-cv-profesional/)
 
 </div>
 
@@ -175,7 +175,7 @@
 
 📧 **Email:** [ingpaodev92@gmail.com](mailto:ingpaodev92@gmail.com)  
 💼 **LinkedIn:** [Paola Marcela Argüelles](https://www.linkedin.com/in/ingpaodev)  
-🌐 **CV Interactivo:** [Ver CV Web](tu-cv-web-url-aqui)  
+🌐 **CV Interactivo:** [Ver CV Web](https://ingpaodev1992.github.io/mi-cv-profesional/)  
 
 ---
 
