@@ -145,7 +145,7 @@
 ## 💼 **¿Qué puedo aportar?**
 
 ✅ **Experiencia real** en proyectos empresariales de alto impacto  
-✅ **Dominio avanzado** de Microsoft Power Platform y automatización RPA  
+✅ **Dominio** de Microsoft Power Platform y automatización RPA  
 ✅ **Capacidad de liderazgo** en transformación digital  
 ✅ **Visión de negocio** aplicada a soluciones tecnológicas  
 ✅ **Adaptabilidad** y aprendizaje continuo en nuevas tecnologías  
