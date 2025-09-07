@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <h2>🚀 Data Analyst | Power BI Expert | RPA Specialist | Transitioning to Data Science 📊</h2>
+  <h2>🚀 Data Analyst | Power BI | RPA | Transitioning to Data Science 📊</h2>
   <p><em>Transformando datos complejos en insights estratégicos que impulsan decisiones empresariales</em></p>
 </div>
 
@@ -137,7 +137,7 @@
 - 📊 **Visualización de Datos con Python** - Platzi
 
 ### **🌐 Idiomas**
-- 🇪🇸 **Español:** Nativo
+- 🇨🇴 **Español:** Nativo
 - 🇺🇸 **Inglés:** A2 (En mejoramiento continuo)
 
 ---
